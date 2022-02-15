@@ -1,7 +1,5 @@
 
-# CursoAngular
-Curso de Angular, instructor Fernando Herrera
+# Angular Course
+Angular Course, instructor Fernando Herrera
 
-"# AngularPractices" 
-"# AngularPractices" 
 "# AngularPractices" 
